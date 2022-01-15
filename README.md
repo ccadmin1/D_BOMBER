@@ -60,41 +60,20 @@ pkg install git wget python3 -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+git clone https://github.com/ccadmin1/D_BOMBER
 ```
 Go to the Xlr8 directory
 ```bash
-cd XLR8_BOMBER
+cd D_BOMBER
 ```
 Run the script
 ```bash
-python xlr8.py
+python D.py
 ```
 
 
 
-#### For Debian-based GNU/Linux distributions
-
-Update the packages
-```bash
-apt-get update; apt-get upgrade -y
-```
-Install some dependencies
-```bash
-apt-get install git wget python3 -y
-```
-Clone the repository
-```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
-```
-Go to the Xlr8 directory
-```bash
-cd XLR8_BOMBER
-```
-Run the script
-```bash
-sudo python3 xlr8.py
-```
+##
 
 ## Anonymous Msg Passcode
 
@@ -115,25 +94,18 @@ You'll get that in the telegram channel !
 Apache 2.0 © Anubhav Kashyap
 
 
-## Screenshots (Termux)
 
 <br>
 <p align="center">
-<img width="48%" src="screenshots/IMG_20210531_101730.jpg"/>
-<img width="48%" src="screenshots/IMG_20210530_164910.jpg"/>
+<img width="48%" src=""/>
+<img width="48%" src=""/>
 </p>
 <p align="centre">
-<img width="48%" src="screenshots/IMG_20210530_165509.jpg"/>
-<img width="48%" src="screenshots/IMG_20210530_165506.jpg"/>
+<img width="48%" src=""/>
+<img width="48%" src=""/>
 </p>
 
 ## Contact Us
 * `If you have any feedback or queries`
 * `mail us at: anubhavkashyap@pm.me`
 
-## Telegram Channel
-
-* `All updates of Xlr8 will be posted here !`
-
-<a href="https://t.me/xlr8bomber">
-         <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
